@@ -1,0 +1,9 @@
+1: criar pasta OK
+2: inicializar git OK
+3: criar arquivo OK
+4: fazer commit
+5: criar codigo
+6: fazer commit
+7: criar branch
+8: fazer merge
+9: enviar para o github
