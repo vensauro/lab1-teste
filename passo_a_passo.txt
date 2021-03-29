@@ -4,6 +4,8 @@
 4: fazer commit OK
 5: criar codigo OK
 6: fazer commit OK
-7: criar branch
-8: fazer merge
-9: enviar para o github
+7: criar branch OK
+8: fazer merge OK
+9: enviar para o github VAMoS?
+
+YEAH
