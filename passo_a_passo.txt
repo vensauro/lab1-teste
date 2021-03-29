@@ -2,8 +2,8 @@
 2: inicializar git OK
 3: criar arquivo OK
 4: fazer commit OK
-5: criar codigo
-6: fazer commit
+5: criar codigo OK
+6: fazer commit OK
 7: criar branch
 8: fazer merge
 9: enviar para o github
